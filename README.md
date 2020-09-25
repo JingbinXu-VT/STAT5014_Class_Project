@@ -1,4 +1,4 @@
-# Team Name - Social Disparity - Pink Cats
+# Team Name - Social Disparity - Rich People
 
 ## Group members: Peter Crawford, Wenjun Han, Jingbin Xu
 
