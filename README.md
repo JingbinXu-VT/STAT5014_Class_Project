@@ -26,7 +26,6 @@ Do the rich really get richer, while the poor get poorer? This is an opinion amo
 * Overall Project Execution (2pts)
 
 ## Possible data source:
-* https://www.kaggle.com/uciml/adult-census-income
 * (The links below, were provided by Dr. Settlage in the initial project description)
 * https://www.racialequitytools.org/resourcefiles/lui.pdf 
 * https://www.federalreserve.gov/econres/notes/feds-notes/recent-trends-in-wealth-holding-by-race-and-ethnicity-evidence-from-the-survey-of-consumer-finances-20170927.htm 
