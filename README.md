@@ -18,6 +18,9 @@ Do the rich really get richer, while the poor get poorer? This is an opinion amo
 * Version Control: GitHub
 * Group Communication: Zoom, Slack, Email
 
+## Project Dashboard:
+https://wenjun-han.shinyapps.io/rshinny/
+
 ## Grading Rubric:
 * Version Control - git - all members make commits (2pts)
 * Reproducible Research Adherance (2pts)
